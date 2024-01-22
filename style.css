@@ -1,0 +1,41 @@
+.myheading{
+    color: blue;
+    font-size: 40px;
+    background-color: #40ff00;
+}
+#three{
+    color: red;
+}
+.two{
+
+    color: black;
+}
+.first{
+    background-color:burlywood ;
+    padding-top:30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px ;
+}
+.test{
+
+    display: flex;
+    background-color: lightgrey;
+    padding: 20px;
+}
+.paragraph1{
+
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: red;
+}
+.paragraph3{
+    background-color: purple;
+}
+.paragraph4{
+    background-color: chocolate;
+}
